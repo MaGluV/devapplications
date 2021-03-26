@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MaGluV/devapplications/issues"
   },
-  "homepage": "https://github.com/MaGluV/devapplications#readme"
+  "homepage": "https://github.com/MaGluV/devapplications#readme",
+  "dependencies": {
+    "carbone": "^3.1.0"
+  }
 }
