@@ -1,10 +1,10 @@
 {
 	"contractID": "1",
-	"contractDate": [{
+	"contractDate": {
 						"day": "26",
 						"month": "03",
 						"year": "1"
-					}],
+					},
 	"name": "Иванов Денис Семенович",
 	"birthDate": "22.06.1987",
 	"passportID": "ТП УФМС России по УР",
@@ -13,37 +13,37 @@
 	"bankID": "043999999",
 	"checkingAccount": "40817810024325532124",
 	"corrAccount": "30101810200234535355",
-	"registrationDate": [{
+	"registrationDate": {
 							"day": "11",
 							"month": "февраля",
 							"year": "1"
-						}],
+						},
 	"inspectionName": "Межрайонаая инспекция федеральной налоговой службы №111 по УР",
 	"address": "Россия, УР, г. Ижевск, ул. Пушкинская д.38",
 	"phone": "88888888888",
 	"email": "user@domain.com",
-	"start": [{
+	"start": {
 				"day": "11",
 				"month": "02",
 				"year": "1"
-			 }],
-	"end": [{
+			 },
+	"end": {
 				"day": "13",
 				"month": "03",
 				"year": "1"
-			}],
-	"cost": [{
+			},
+	"cost": {
 				"number": "10639",
 				"text": "десять тысяч шестьсот тридцать девять рублей"
-			}],
-	"paymentPeriod": [{
+			},
+	"paymentPeriod": {
 						"number": "30",
 						"text": "тридцати"
-					}],
-	"refusalPeriod": [{
+					},
+	"refusalPeriod": {
 						"number": "3",
 						"text": "три"
-					}],
+					},
 	"serviceList": "- Список заявок на разработку ПО\n- Форма ввода заявки на разработку ПО\n- Генератор договора возмездного оказания услуг по шаблону\n- Генератор акта сдачи-приемки оказанных услуг по шаблону"
 }
  
