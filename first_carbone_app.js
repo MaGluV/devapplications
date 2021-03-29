@@ -2,8 +2,11 @@
   const carbone = require('carbone');
 
   var data = JSON.parse(fs.readFileSync('data.json'));
+  var options = {
+  					lang: "ru"
+				};  
 
-  carbone.render('templates/contract_onetime.odt', data, function(err, result){
+  carbone.render('templates/contract_onetime.odt', data, options, function(err, result){
     if (err) {
       return console.log(err);
     }

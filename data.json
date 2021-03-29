@@ -1,10 +1,6 @@
 {
 	"contractID": "1",
-	"contractDate": {
-						"day": "26",
-						"month": "03",
-						"year": "1"
-					},
+	"contractDate": "2021-03-26",
 	"name": "Иванов Денис Семенович",
 	"birthDate": "22.06.1987",
 	"passportID": "ТП УФМС России по УР",
@@ -13,25 +9,13 @@
 	"bankID": "043999999",
 	"checkingAccount": "40817810024325532124",
 	"corrAccount": "30101810200234535355",
-	"registrationDate": {
-							"day": "11",
-							"month": "февраля",
-							"year": "1"
-						},
+	"registrationDate": "2021-02-11",
 	"inspectionName": "Межрайонаая инспекция федеральной налоговой службы №111 по УР",
 	"address": "Россия, УР, г. Ижевск, ул. Пушкинская д.38",
 	"phone": "88888888888",
 	"email": "user@domain.com",
-	"start": {
-				"day": "11",
-				"month": "02",
-				"year": "1"
-			 },
-	"end": {
-				"day": "13",
-				"month": "03",
-				"year": "1"
-			},
+	"start": "2021-02-11",
+	"end": "2021-03-13",
 	"cost": {
 				"number": "10639",
 				"text": "десять тысяч шестьсот тридцать девять рублей"
